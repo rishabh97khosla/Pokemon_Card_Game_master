@@ -1,0 +1,801 @@
+Name,HP,Attack,Defense,Speed,Legendary
+Bulbasaur,45,49,49,45,False
+Ivysaur,60,62,63,60,False
+Venusaur,80,82,83,80,False
+Mega Venusaur,80,100,123,80,False
+Charmander,39,52,43,65,False
+Charmeleon,58,64,58,80,False
+Charizard,78,84,78,100,False
+Mega Charizard X,78,130,111,100,False
+Mega Charizard Y,78,104,78,100,False
+Squirtle,44,48,65,43,False
+Wartortle,59,63,80,58,False
+Blastoise,79,83,100,78,False
+Mega Blastoise,79,103,120,78,False
+Caterpie,45,30,35,45,False
+Metapod,50,20,55,30,False
+Butterfree,60,45,50,70,False
+Weedle,40,35,30,50,False
+Kakuna,45,25,50,35,False
+Beedrill,65,90,40,75,False
+Mega Beedrill,65,150,40,145,False
+Pidgey,40,45,40,56,False
+Pidgeotto,63,60,55,71,False
+Pidgeot,83,80,75,101,False
+Mega Pidgeot,83,80,80,121,False
+Rattata,30,56,35,72,False
+Raticate,55,81,60,97,False
+Spearow,40,60,30,70,False
+Fearow,65,90,65,100,False
+Ekans,35,60,44,55,False
+Arbok,60,85,69,80,False
+Pikachu,35,55,40,90,False
+Raichu,60,90,55,110,False
+Sandshrew,50,75,85,40,False
+Sandslash,75,100,110,65,False
+Nidoran♀,55,47,52,41,False
+Nidorina,70,62,67,56,False
+Nidoqueen,90,92,87,76,False
+Nidoran♂,46,57,40,50,False
+Nidorino,61,72,57,65,False
+Nidoking,81,102,77,85,False
+Clefairy,70,45,48,35,False
+Clefable,95,70,73,60,False
+Vulpix,38,41,40,65,False
+Ninetales,73,76,75,100,False
+Jigglypuff,115,45,20,20,False
+Wigglytuff,140,70,45,45,False
+Zubat,40,45,35,55,False
+Golbat,75,80,70,90,False
+Oddish,45,50,55,30,False
+Gloom,60,65,70,40,False
+Vileplume,75,80,85,50,False
+Paras,35,70,55,25,False
+Parasect,60,95,80,30,False
+Venonat,60,55,50,45,False
+Venomoth,70,65,60,90,False
+Diglett,10,55,25,95,False
+Dugtrio,35,80,50,120,False
+Meowth,40,45,35,90,False
+Persian,65,70,60,115,False
+Psyduck,50,52,48,55,False
+Golduck,80,82,78,85,False
+Mankey,40,80,35,70,False
+,65,105,60,95,False
+Growlithe,55,70,45,60,False
+Arcanine,90,110,80,95,False
+Poliwag,40,50,40,90,False
+Poliwhirl,65,65,65,90,False
+Poliwrath,90,95,95,70,False
+Abra,25,20,15,90,False
+Kadabra,40,35,30,105,False
+Alakazam,55,50,45,120,False
+Mega Alakazam,55,50,65,150,False
+Machop,70,80,50,35,False
+Machoke,80,100,70,45,False
+Machamp,90,130,80,55,False
+Bellsprout,50,75,35,40,False
+Weepinbell,65,90,50,55,False
+Victreebel,80,105,65,70,False
+Tentacool,40,40,35,70,False
+Tentacruel,80,70,65,100,False
+Geodude,40,80,100,20,False
+Graveler,55,95,115,35,False
+Golem,80,120,130,45,False
+Ponyta,50,85,55,90,False
+Rapidash,65,100,70,105,False
+Slowpoke,90,65,65,15,False
+Slowbro,95,75,110,30,False
+Mega Slowbro,95,75,180,30,False
+Magnemite,25,35,70,45,False
+Magneton,50,60,95,70,False
+Farfetch'd,52,65,55,60,False
+Doduo,35,85,45,75,False
+Dodrio,60,110,70,100,False
+Seel,65,45,55,45,False
+Dewgong,90,70,80,70,False
+Grimer,80,80,50,25,False
+Muk,105,105,75,50,False
+Shellder,30,65,100,40,False
+Cloyster,50,95,180,70,False
+Gastly,30,35,30,80,False
+Haunter,45,50,45,95,False
+Gengar,60,65,60,110,False
+Mega Gengar,60,65,80,130,False
+Onix,35,45,160,70,False
+Drowzee,60,48,45,42,False
+Hypno,85,73,70,67,False
+Krabby,30,105,90,50,False
+Kingler,55,130,115,75,False
+Voltorb,40,30,50,100,False
+Electrode,60,50,70,140,False
+Exeggcute,60,40,80,40,False
+Exeggutor,95,95,85,55,False
+Cubone,50,50,95,35,False
+Marowak,60,80,110,45,False
+Hitmonlee,50,120,53,87,False
+Hitmonchan,50,105,79,76,False
+Lickitung,90,55,75,30,False
+Koffing,40,65,95,35,False
+Weezing,65,90,120,60,False
+Rhyhorn,80,85,95,25,False
+Rhydon,105,130,120,40,False
+Chansey,250,5,5,50,False
+Tangela,65,55,115,60,False
+Kangaskhan,105,95,80,90,False
+Mega Kangaskhan,105,125,100,100,False
+Horsea,30,40,70,60,False
+Seadra,55,65,95,85,False
+Goldeen,45,67,60,63,False
+Seaking,80,92,65,68,False
+Staryu,30,45,55,85,False
+Starmie,60,75,85,115,False
+Mr. Mime,40,45,65,90,False
+Scyther,70,110,80,105,False
+Jynx,65,50,35,95,False
+Electabuzz,65,83,57,105,False
+Magmar,65,95,57,93,False
+Pinsir,65,125,100,85,False
+Mega Pinsir,65,155,120,105,False
+Tauros,75,100,95,110,False
+Magikarp,20,10,55,80,False
+Gyarados,95,125,79,81,False
+Mega Gyarados,95,155,109,81,False
+Lapras,130,85,80,60,False
+Ditto,48,48,48,48,False
+Eevee,55,55,50,55,False
+Vaporeon,130,65,60,65,False
+Jolteon,65,65,60,130,False
+Flareon,65,130,60,65,False
+Porygon,65,60,70,40,False
+Omanyte,35,40,100,35,False
+Omastar,70,60,125,55,False
+Kabuto,30,80,90,55,False
+Kabutops,60,115,105,80,False
+Aerodactyl,80,105,65,130,False
+Mega Aerodactyl,80,135,85,150,False
+Snorlax,160,110,65,30,False
+Articuno,90,85,100,85,True
+Zapdos,90,90,85,100,True
+Moltres,90,100,90,90,True
+Dratini,41,64,45,50,False
+Dragonair,61,84,65,70,False
+Dragonite,91,134,95,80,False
+Mewtwo,106,110,90,130,True
+Mega Mewtwo X,106,190,100,130,True
+Mega Mewtwo Y,106,150,70,140,True
+Mew,100,100,100,100,False
+Chikorita,45,49,65,45,False
+Bayleef,60,62,80,60,False
+Meganium,80,82,100,80,False
+Cyndaquil,39,52,43,65,False
+Quilava,58,64,58,80,False
+Typhlosion,78,84,78,100,False
+Totodile,50,65,64,43,False
+Croconaw,65,80,80,58,False
+Feraligatr,85,105,100,78,False
+Sentret,35,46,34,20,False
+Furret,85,76,64,90,False
+Hoothoot,60,30,30,50,False
+Noctowl,100,50,50,70,False
+Ledyba,40,20,30,55,False
+Ledian,55,35,50,85,False
+Spinarak,40,60,40,30,False
+Ariados,70,90,70,40,False
+Crobat,85,90,80,130,False
+Chinchou,75,38,38,67,False
+Lanturn,125,58,58,67,False
+Pichu,20,40,15,60,False
+Cleffa,50,25,28,15,False
+Igglybuff,90,30,15,15,False
+Togepi,35,20,65,20,False
+Togetic,55,40,85,40,False
+Natu,40,50,45,70,False
+Xatu,65,75,70,95,False
+Mareep,55,40,40,35,False
+Flaaffy,70,55,55,45,False
+Ampharos,90,75,85,55,False
+Mega Ampharos,90,95,105,45,False
+Bellossom,75,80,95,50,False
+Marill,70,20,50,40,False
+Azumarill,100,50,80,50,False
+Sudowoodo,70,100,115,30,False
+Politoed,90,75,75,70,False
+Hoppip,35,35,40,50,False
+Skiploom,55,45,50,80,False
+Jumpluff,75,55,70,110,False
+Aipom,55,70,55,85,False
+Sunkern,30,30,30,30,False
+Sunflora,75,75,55,30,False
+Yanma,65,65,45,95,False
+Wooper,55,45,45,15,False
+Quagsire,95,85,85,35,False
+Espeon,65,65,60,110,False
+Umbreon,95,65,110,65,False
+Murkrow,60,85,42,91,False
+Slowking,95,75,80,30,False
+Misdreavus,60,60,60,85,False
+Unown,48,72,48,48,False
+Wobbuffet,190,33,58,33,False
+Girafarig,70,80,65,85,False
+Pineco,50,65,90,15,False
+Forretress,75,90,140,40,False
+Dunsparce,100,70,70,45,False
+Gligar,65,75,105,85,False
+Steelix,75,85,200,30,False
+Mega Steelix,75,125,230,30,False
+Snubbull,60,80,50,30,False
+Granbull,90,120,75,45,False
+Qwilfish,65,95,75,85,False
+Scizor,70,130,100,65,False
+Mega Scizor,70,150,140,75,False
+Shuckle,20,10,230,5,False
+Heracross,80,125,75,85,False
+Mega Heracross,80,185,115,75,False
+Sneasel,55,95,55,115,False
+Teddiursa,60,80,50,40,False
+Ursaring,90,130,75,55,False
+Slugma,40,40,40,20,False
+Magcargo,50,50,120,30,False
+Swinub,50,50,40,50,False
+Piloswine,100,100,80,50,False
+Corsola,55,55,85,35,False
+Remoraid,35,65,35,65,False
+Octillery,75,105,75,45,False
+Delibird,45,55,45,75,False
+Mantine,65,40,70,70,False
+Skarmory,65,80,140,70,False
+Houndour,45,60,30,65,False
+Houndoom,75,90,50,95,False
+Mega Houndoom,75,90,90,115,False
+Kingdra,75,95,95,85,False
+Phanpy,90,60,60,40,False
+Donphan,90,120,120,50,False
+Porygon2,85,80,90,60,False
+Stantler,73,95,62,85,False
+Smeargle,55,20,35,75,False
+Tyrogue,35,35,35,35,False
+Hitmontop,50,95,95,70,False
+Smoochum,45,30,15,65,False
+Elekid,45,63,37,95,False
+Magby,45,75,37,83,False
+Miltank,95,80,105,100,False
+Blissey,255,10,10,55,False
+Raikou,90,85,75,115,True
+Entei,115,115,85,100,True
+Suicune,100,75,115,85,True
+Larvitar,50,64,50,41,False
+Pupitar,70,84,70,51,False
+Tyranitar,100,134,110,61,False
+Mega Tyranitar,100,164,150,71,False
+Lugia,106,90,130,110,True
+Ho-oh,106,130,90,90,True
+Celebi,100,100,100,100,False
+Treecko,40,45,35,70,False
+Grovyle,50,65,45,95,False
+Sceptile,70,85,65,120,False
+Mega Sceptile,70,110,75,145,False
+Torchic,45,60,40,45,False
+Combusken,60,85,60,55,False
+Blaziken,80,120,70,80,False
+Mega Blaziken,80,160,80,100,False
+Mudkip,50,70,50,40,False
+Marshtomp,70,85,70,50,False
+Swampert,100,110,90,60,False
+Mega Swampert,100,150,110,70,False
+Poochyena,35,55,35,35,False
+Mightyena,70,90,70,70,False
+Zigzagoon,38,30,41,60,False
+Linoone,78,70,61,100,False
+Wurmple,45,45,35,20,False
+Silcoon,50,35,55,15,False
+Beautifly,60,70,50,65,False
+Cascoon,50,35,55,15,False
+Dustox,60,50,70,65,False
+Lotad,40,30,30,30,False
+Lombre,60,50,50,50,False
+Ludicolo,80,70,70,70,False
+Seedot,40,40,50,30,False
+Nuzleaf,70,70,40,60,False
+Shiftry,90,100,60,80,False
+Taillow,40,55,30,85,False
+Swellow,60,85,60,125,False
+Wingull,40,30,30,85,False
+Pelipper,60,50,100,65,False
+Ralts,28,25,25,40,False
+Kirlia,38,35,35,50,False
+Gardevoir,68,65,65,80,False
+Mega Gardevoir,68,85,65,100,False
+Surskit,40,30,32,65,False
+Masquerain,70,60,62,60,False
+Shroomish,60,40,60,35,False
+Breloom,60,130,80,70,False
+Slakoth,60,60,60,30,False
+Vigoroth,80,80,80,90,False
+Slaking,150,160,100,100,False
+Nincada,31,45,90,40,False
+Ninjask,61,90,45,160,False
+Shedinja,1,90,45,40,False
+Whismur,64,51,23,28,False
+Loudred,84,71,43,48,False
+Exploud,104,91,63,68,False
+Makuhita,72,60,30,25,False
+Hariyama,144,120,60,50,False
+Azurill,50,20,40,20,False
+Nosepass,30,45,135,30,False
+Skitty,50,45,45,50,False
+Delcatty,70,65,65,70,False
+Sableye,50,75,75,50,False
+Mega Sableye,50,85,125,20,False
+Mawile,50,85,85,50,False
+Mega Mawile,50,105,125,50,False
+Aron,50,70,100,30,False
+Lairon,60,90,140,40,False
+Aggron,70,110,180,50,False
+Mega Aggron,70,140,230,50,False
+Meditite,30,40,55,60,False
+Medicham,60,60,75,80,False
+Mega Medicham,60,100,85,100,False
+Electrike,40,45,40,65,False
+Manectric,70,75,60,105,False
+Mega Manectric,70,75,80,135,False
+Plusle,60,50,40,95,False
+Minun,60,40,50,95,False
+Volbeat,65,73,55,85,False
+Illumise,65,47,55,85,False
+Roselia,50,60,45,65,False
+Gulpin,70,43,53,40,False
+Swalot,100,73,83,55,False
+Carvanha,45,90,20,65,False
+Sharpedo,70,120,40,95,False
+Mega Sharpedo,70,140,70,105,False
+Wailmer,130,70,35,60,False
+Wailord,170,90,45,60,False
+Numel,60,60,40,35,False
+Camerupt,70,100,70,40,False
+Mega Camerupt,70,120,100,20,False
+Torkoal,70,85,140,20,False
+Spoink,60,25,35,60,False
+Grumpig,80,45,65,80,False
+Spinda,60,60,60,60,False
+Trapinch,45,100,45,10,False
+Vibrava,50,70,50,70,False
+Flygon,80,100,80,100,False
+Cacnea,50,85,40,35,False
+Cacturne,70,115,60,55,False
+Swablu,45,40,60,50,False
+Altaria,75,70,90,80,False
+Mega Altaria,75,110,110,80,False
+Zangoose,73,115,60,90,False
+Seviper,73,100,60,65,False
+Lunatone,70,55,65,70,False
+Solrock,70,95,85,70,False
+Barboach,50,48,43,60,False
+Whiscash,110,78,73,60,False
+Corphish,43,80,65,35,False
+Crawdaunt,63,120,85,55,False
+Baltoy,40,40,55,55,False
+Claydol,60,70,105,75,False
+Lileep,66,41,77,23,False
+Cradily,86,81,97,43,False
+Anorith,45,95,50,75,False
+Armaldo,75,125,100,45,False
+Feebas,20,15,20,80,False
+Milotic,95,60,79,81,False
+Castform,70,70,70,70,False
+Kecleon,60,90,70,40,False
+Shuppet,44,75,35,45,False
+Banette,64,115,65,65,False
+Mega Banette,64,165,75,75,False
+Duskull,20,40,90,25,False
+Dusclops,40,70,130,25,False
+Tropius,99,68,83,51,False
+Chimecho,65,50,70,65,False
+Absol,65,130,60,75,False
+Mega Absol,65,150,60,115,False
+Wynaut,95,23,48,23,False
+Snorunt,50,50,50,50,False
+Glalie,80,80,80,80,False
+Mega Glalie,80,120,80,100,False
+Spheal,70,40,50,25,False
+Sealeo,90,60,70,45,False
+Walrein,110,80,90,65,False
+Clamperl,35,64,85,32,False
+Huntail,55,104,105,52,False
+Gorebyss,55,84,105,52,False
+Relicanth,100,90,130,55,False
+Luvdisc,43,30,55,97,False
+Bagon,45,75,60,50,False
+Shelgon,65,95,100,50,False
+Salamence,95,135,80,100,False
+Mega Salamence,95,145,130,120,False
+Beldum,40,55,80,30,False
+Metang,60,75,100,50,False
+Metagross,80,135,130,70,False
+Mega Metagross,80,145,150,110,False
+Regirock,80,100,200,50,True
+Regice,80,50,100,50,True
+Registeel,80,75,150,50,True
+Latias,80,80,90,110,True
+Mega Latias,80,100,120,110,True
+Latios,80,90,80,110,True
+Mega Latios,80,130,100,110,True
+Kyogre,100,100,90,90,True
+Primal Kyogre,100,150,90,90,True
+Groudon,100,150,140,90,True
+Primal Groudon,100,180,160,90,True
+Rayquaza,105,150,90,95,True
+Mega Rayquaza,105,180,100,115,True
+Jirachi,100,100,100,100,True
+Deoxys Normal Forme,50,150,50,150,True
+DeoxysAttack Forme,50,180,20,150,True
+Deoxys Defense Forme,50,70,160,90,True
+Deoxys Speed Forme,50,95,90,180,True
+Turtwig,55,68,64,31,False
+Grotle,75,89,85,36,False
+Torterra,95,109,105,56,False
+Chimchar,44,58,44,61,False
+Monferno,64,78,52,81,False
+Infernape,76,104,71,108,False
+Piplup,53,51,53,40,False
+Prinplup,64,66,68,50,False
+Empoleon,84,86,88,60,False
+Starly,40,55,30,60,False
+Staravia,55,75,50,80,False
+Staraptor,85,120,70,100,False
+Bidoof,59,45,40,31,False
+Bibarel,79,85,60,71,False
+Kricketot,37,25,41,25,False
+Kricketune,77,85,51,65,False
+Shinx,45,65,34,45,False
+Luxio,60,85,49,60,False
+Luxray,80,120,79,70,False
+Budew,40,30,35,55,False
+Roserade,60,70,65,90,False
+Cranidos,67,125,40,58,False
+Rampardos,97,165,60,58,False
+Shieldon,30,42,118,30,False
+Bastiodon,60,52,168,30,False
+Burmy,40,29,45,36,False
+Wormadam Plant Cloak,60,59,85,36,False
+Wormadam Sandy Cloak,60,79,105,36,False
+Wormadam Trash Cloak,60,69,95,36,False
+Mothim,70,94,50,66,False
+Combee,30,30,42,70,False
+Vespiquen,70,80,102,40,False
+Pachirisu,60,45,70,95,False
+Buizel,55,65,35,85,False
+Floatzel,85,105,55,115,False
+Cherubi,45,35,45,35,False
+Cherrim,70,60,70,85,False
+Shellos,76,48,48,34,False
+Gastrodon,111,83,68,39,False
+Ambipom,75,100,66,115,False
+Drifloon,90,50,34,70,False
+Drifblim,150,80,44,80,False
+Buneary,55,66,44,85,False
+Lopunny,65,76,84,105,False
+Mega Lopunny,65,136,94,135,False
+Mismagius,60,60,60,105,False
+Honchkrow,100,125,52,71,False
+Glameow,49,55,42,85,False
+Purugly,71,82,64,112,False
+Chingling,45,30,50,45,False
+Stunky,63,63,47,74,False
+Skuntank,103,93,67,84,False
+Bronzor,57,24,86,23,False
+Bronzong,67,89,116,33,False
+Bonsly,50,80,95,10,False
+Mime Jr.,20,25,45,60,False
+Happiny,100,5,5,30,False
+Chatot,76,65,45,91,False
+Spiritomb,50,92,108,35,False
+Gible,58,70,45,42,False
+Gabite,68,90,65,82,False
+Garchomp,108,130,95,102,False
+Mega Garchomp,108,170,115,92,False
+Munchlax,135,85,40,5,False
+Riolu,40,70,40,60,False
+Lucario,70,110,70,90,False
+Mega Lucario,70,145,88,112,False
+Hippopotas,68,72,78,32,False
+Hippowdon,108,112,118,47,False
+Skorupi,40,50,90,65,False
+Drapion,70,90,110,95,False
+Croagunk,48,61,40,50,False
+Toxicroak,83,106,65,85,False
+Carnivine,74,100,72,46,False
+Finneon,49,49,56,66,False
+Lumineon,69,69,76,91,False
+Mantyke,45,20,50,50,False
+Snover,60,62,50,40,False
+Abomasnow,90,92,75,60,False
+Mega Abomasnow,90,132,105,30,False
+Weavile,70,120,65,125,False
+Magnezone,70,70,115,60,False
+Lickilicky,110,85,95,50,False
+Rhyperior,115,140,130,40,False
+Tangrowth,100,100,125,50,False
+Electivire,75,123,67,95,False
+Magmortar,75,95,67,83,False
+Togekiss,85,50,95,80,False
+Yanmega,86,76,86,95,False
+Leafeon,65,110,130,95,False
+Glaceon,65,60,110,65,False
+Gliscor,75,95,125,95,False
+Mamoswine,110,130,80,80,False
+Porygon-Z,85,80,70,90,False
+Gallade,68,125,65,80,False
+Mega Gallade,68,165,95,110,False
+Probopass,60,55,145,40,False
+Dusknoir,45,100,135,45,False
+Froslass,70,80,70,110,False
+Rotom,50,50,77,91,False
+Heat Rotom,50,65,107,86,False
+Wash Rotom,50,65,107,86,False
+Frost Rotom,50,65,107,86,False
+Fan Rotom,50,65,107,86,False
+Mow Rotom,50,65,107,86,False
+Uxie,75,75,130,95,True
+Mesprit,80,105,105,80,True
+Azelf,75,125,70,115,True
+Dialga,100,120,120,90,True
+Palkia,90,120,100,100,True
+Heatran,91,90,106,77,True
+Regigigas,110,160,110,100,True
+Giratina Altered Forme,150,100,120,90,True
+Giratina Origin Forme,150,120,100,90,True
+Cresselia,120,70,120,85,False
+Phione,80,80,80,80,False
+Manaphy,100,100,100,100,False
+Darkrai,70,90,90,125,True
+Shaymin Land Forme,100,100,100,100,True
+Shaymin Sky Forme,100,103,75,127,True
+Arceus,120,120,120,120,True
+Victini,100,100,100,100,True
+Snivy,45,45,55,63,False
+Servine,60,60,75,83,False
+Serperior,75,75,95,113,False
+Tepig,65,63,45,45,False
+Pignite,90,93,55,55,False
+Emboar,110,123,65,65,False
+Oshawott,55,55,45,45,False
+Dewott,75,75,60,60,False
+Samurott,95,100,85,70,False
+Patrat,45,55,39,42,False
+Watchog,60,85,69,77,False
+Lillipup,45,60,45,55,False
+Herdier,65,80,65,60,False
+Stoutland,85,110,90,80,False
+Purrloin,41,50,37,66,False
+Liepard,64,88,50,106,False
+Pansage,50,53,48,64,False
+Simisage,75,98,63,101,False
+Pansear,50,53,48,64,False
+Simisear,75,98,63,101,False
+Panpour,50,53,48,64,False
+Simipour,75,98,63,101,False
+Munna,76,25,45,24,False
+Musharna,116,55,85,29,False
+Pidove,50,55,50,43,False
+Tranquill,62,77,62,65,False
+Unfezant,80,115,80,93,False
+Blitzle,45,60,32,76,False
+Zebstrika,75,100,63,116,False
+Roggenrola,55,75,85,15,False
+Boldore,70,105,105,20,False
+Gigalith,85,135,130,25,False
+Woobat,55,45,43,72,False
+Swoobat,67,57,55,114,False
+Drilbur,60,85,40,68,False
+Excadrill,110,135,60,88,False
+Audino,103,60,86,50,False
+Mega Audino,103,60,126,50,False
+Timburr,75,80,55,35,False
+Gurdurr,85,105,85,40,False
+Conkeldurr,105,140,95,45,False
+Tympole,50,50,40,64,False
+Palpitoad,75,65,55,69,False
+Seismitoad,105,95,75,74,False
+Throh,120,100,85,45,False
+Sawk,75,125,75,85,False
+Sewaddle,45,53,70,42,False
+Swadloon,55,63,90,42,False
+Leavanny,75,103,80,92,False
+Venipede,30,45,59,57,False
+Whirlipede,40,55,99,47,False
+Scolipede,60,100,89,112,False
+Cottonee,40,27,60,66,False
+Whimsicott,60,67,85,116,False
+Petilil,45,35,50,30,False
+Lilligant,70,60,75,90,False
+Basculin,70,92,65,98,False
+Sandile,50,72,35,65,False
+Krokorok,60,82,45,74,False
+Krookodile,95,117,80,92,False
+Darumaka,70,90,45,50,False
+Darmanitan Standard Mode,105,140,55,95,False
+Darmanitan Zen Mode,105,30,105,55,False
+Maractus,75,86,67,60,False
+Dwebble,50,65,85,55,False
+Crustle,70,95,125,45,False
+Scraggy,50,75,70,48,False
+Scrafty,65,90,115,58,False
+Sigilyph,72,58,80,97,False
+Yamask,38,30,85,30,False
+Cofagrigus,58,50,145,30,False
+Tirtouga,54,78,103,22,False
+Carracosta,74,108,133,32,False
+Archen,55,112,45,70,False
+Archeops,75,140,65,110,False
+Trubbish,50,50,62,65,False
+Garbodor,80,95,82,75,False
+Zorua,40,65,40,65,False
+Zoroark,60,105,60,105,False
+Minccino,55,50,40,75,False
+Cinccino,75,95,60,115,False
+Gothita,45,30,50,45,False
+Gothorita,60,45,70,55,False
+Gothitelle,70,55,95,65,False
+Solosis,45,30,40,20,False
+Duosion,65,40,50,30,False
+Reuniclus,110,65,75,30,False
+Ducklett,62,44,50,55,False
+Swanna,75,87,63,98,False
+Vanillite,36,50,50,44,False
+Vanillish,51,65,65,59,False
+Vanilluxe,71,95,85,79,False
+Deerling,60,60,50,75,False
+Sawsbuck,80,100,70,95,False
+Emolga,55,75,60,103,False
+Karrablast,50,75,45,60,False
+Escavalier,70,135,105,20,False
+Foongus,69,55,45,15,False
+Amoonguss,114,85,70,30,False
+Frillish,55,40,50,40,False
+Jellicent,100,60,70,60,False
+Alomomola,165,75,80,65,False
+Joltik,50,47,50,65,False
+Galvantula,70,77,60,108,False
+Ferroseed,44,50,91,10,False
+Ferrothorn,74,94,131,20,False
+Klink,40,55,70,30,False
+Klang,60,80,95,50,False
+Klinklang,60,100,115,90,False
+Tynamo,35,55,40,60,False
+Eelektrik,65,85,70,40,False
+Eelektross,85,115,80,50,False
+Elgyem,55,55,55,30,False
+Beheeyem,75,75,75,40,False
+Litwick,50,30,55,20,False
+Lampent,60,40,60,55,False
+Chandelure,60,55,90,80,False
+Axew,46,87,60,57,False
+Fraxure,66,117,70,67,False
+Haxorus,76,147,90,97,False
+Cubchoo,55,70,40,40,False
+Beartic,95,110,80,50,False
+Cryogonal,70,50,30,105,False
+Shelmet,50,40,85,25,False
+Accelgor,80,70,40,145,False
+Stunfisk,109,66,84,32,False
+Mienfoo,45,85,50,65,False
+Mienshao,65,125,60,105,False
+Druddigon,77,120,90,48,False
+Golett,59,74,50,35,False
+Golurk,89,124,80,55,False
+Pawniard,45,85,70,60,False
+Bisharp,65,125,100,70,False
+Bouffalant,95,110,95,55,False
+Rufflet,70,83,50,60,False
+Braviary,100,123,75,80,False
+Vullaby,70,55,75,60,False
+Mandibuzz,110,65,105,80,False
+Heatmor,85,97,66,65,False
+Durant,58,109,112,109,False
+Deino,52,65,50,38,False
+Zweilous,72,85,70,58,False
+Hydreigon,92,105,90,98,False
+Larvesta,55,85,55,60,False
+Volcarona,85,60,65,100,False
+Cobalion,91,90,129,108,True
+Terrakion,91,129,90,108,True
+Virizion,91,90,72,108,True
+Tornadus Incarnate Forme,79,115,70,111,True
+Tornadus Therian Forme,79,100,80,121,True
+Thundurus Incarnate Forme,79,115,70,111,True
+Thundurus Therian Forme,79,105,70,101,True
+Reshiram,100,120,100,90,True
+Zekrom,100,150,120,90,True
+Landorus Incarnate Forme,89,125,90,101,True
+Landorus Therian Forme,89,145,90,91,True
+Kyurem,125,130,90,95,True
+Kyurem Black Kyurem,125,170,100,95,True
+Kyurem White Kyurem,125,120,90,95,True
+Keldeo Ordinary Forme,91,72,90,108,False
+Keldeo Resolute Forme,91,72,90,108,False
+Meloetta Aria Forme,100,77,77,90,False
+Meloetta Pirouette Forme,100,128,90,128,False
+Genesect,71,120,95,99,False
+Chespin,56,61,65,38,False
+Quilladin,61,78,95,57,False
+Chesnaught,88,107,122,64,False
+Fennekin,40,45,40,60,False
+Braixen,59,59,58,73,False
+Delphox,75,69,72,104,False
+Froakie,41,56,40,71,False
+Frogadier,54,63,52,97,False
+Greninja,72,95,67,122,False
+Bunnelby,38,36,38,57,False
+Diggersby,85,56,77,78,False
+Fletchling,45,50,43,62,False
+Fletchinder,62,73,55,84,False
+Talonflame,78,81,71,126,False
+Scatterbug,38,35,40,35,False
+Spewpa,45,22,60,29,False
+Vivillon,80,52,50,89,False
+Litleo,62,50,58,72,False
+Pyroar,86,68,72,106,False
+Flabébé,44,38,39,42,False
+Floette,54,45,47,52,False
+Florges,78,65,68,75,False
+Skiddo,66,65,48,52,False
+Gogoat,123,100,62,68,False
+Pancham,67,82,62,43,False
+Pangoro,95,124,78,58,False
+Furfrou,75,80,60,102,False
+Espurr,62,48,54,68,False
+Meowstic Male,74,48,76,104,False
+Meowstic Female,74,48,76,104,False
+Honedge,45,80,100,28,False
+Doublade,59,110,150,35,False
+Aegislash Blade Forme,60,150,50,60,False
+Aegislash Shield Forme,60,50,150,60,False
+Spritzee,78,52,60,23,False
+Aromatisse,101,72,72,29,False
+Swirlix,62,48,66,49,False
+Slurpuff,82,80,86,72,False
+Inkay,53,54,53,45,False
+Malamar,86,92,88,73,False
+Binacle,42,52,67,50,False
+Barbaracle,72,105,115,68,False
+Skrelp,50,60,60,30,False
+Dragalge,65,75,90,44,False
+Clauncher,50,53,62,44,False
+Clawitzer,71,73,88,59,False
+Helioptile,44,38,33,70,False
+Heliolisk,62,55,52,109,False
+Tyrunt,58,89,77,48,False
+Tyrantrum,82,121,119,71,False
+Amaura,77,59,50,46,False
+Aurorus,123,77,72,58,False
+Sylveon,95,65,65,60,False
+Hawlucha,78,92,75,118,False
+Dedenne,67,58,57,101,False
+Carbink,50,50,150,50,False
+Goomy,45,50,35,40,False
+Sliggoo,68,75,53,60,False
+Goodra,90,100,70,80,False
+Klefki,57,80,91,75,False
+Phantump,43,70,48,38,False
+Trevenant,85,110,76,56,False
+Pumpkaboo Average Size,49,66,70,51,False
+Pumpkaboo Small Size,44,66,70,56,False
+Pumpkaboo Large Size,54,66,70,46,False
+Pumpkaboo Super Size,59,66,70,41,False
+Gourgeist Average Size,65,90,122,84,False
+Gourgeist Small Size,55,85,122,99,False
+Gourgeist Large Size,75,95,122,69,False
+Gourgeist Super Size,85,100,122,54,False
+Bergmite,55,69,85,28,False
+Avalugg,95,117,184,28,False
+Noibat,40,30,35,55,False
+Noivern,85,70,80,123,False
+Xerneas,126,131,95,99,True
+Yveltal,126,131,95,99,True
+Zygarde Half Forme,108,100,121,95,True
+Diancie,50,100,150,50,True
+Mega Diancie,50,160,110,110,True
+Hoopa Confined,80,110,60,70,True
+Hoopa Unbound,80,160,60,80,True
+Volcanion,80,110,120,70,True
